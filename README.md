@@ -1,6 +1,6 @@
 - 👋 Hi,I’m Jonathan 
 - 👀 I’m interested in studying
-- 📖 I’m currently learning HTML,CSS and JavaScrip
+- 📖 I’m currently learning HTML,CSS and JavaScript
 - 🕵️ I’m looking to collaborate on share what I'm learning
 - 📫 How to reach me:
 -  Email: jh0owwm@gmail.com
