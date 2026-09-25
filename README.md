@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="mailto:jhow@imperiumgestao.com.br">
-    <img src="https://img.shields.io/badge/E--mail-jhow%40imperiumgestao.com.br-D14836?style=for-the-badge&labelColor=D14836&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jhowm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40jhowm-111111?style=for-the-badge&labelColor=111111&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=111111&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jh0ww/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40jh0ww-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
